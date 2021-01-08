@@ -1,4 +1,13 @@
 ﻿#whatsapp-bot js. script created by swagcode publish at github.com/swagcodes/swagbot
+ 
+ how to use in termux:
+> git clone https://github.com/swagcodes/swagbot
+> cd swagbot
+> bash install.sh
+> node index.js
+> scan qr code using 2 devices
+> done
+
 Command bot:
 !katakan <text> (the bot will follow what you say)
 !anime (random anime picture)
