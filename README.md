@@ -1,4 +1,4 @@
-﻿#whatsapp-bot js. script created by swagcode published at github.com/swagcodes/swagbot
+﻿#whatsapp-bot js. script created by swagcode published at [`github.com/swagcodes/swagbot`](github.com/swagcodes/swagbot)
  
 ### How to use in termux:
  
@@ -25,6 +25,6 @@
 fixed all bug 08/01/2021 by swagcodes
 if u found a new bug please contact instagram [`@swagcode_`](https://www.instagram.com/swagcode_/)
 
-!!! impersonation is porhibited by stealing thi script without tag swagcode !!!
+!!! selling and buying of this script is prohibited !!!
 
 @All Right Reserved - swagcodes
