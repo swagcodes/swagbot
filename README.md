@@ -1,4 +1,4 @@
-﻿#whatsapp-bot js. script created by swagcode publish at github.com/swagcodes/swagbot
+﻿#whatsapp-bot js. script created by swagcode published at github.com/swagcodes/swagbot
  
 ### How to use in termux:
  
@@ -13,6 +13,7 @@
 
 ### Command bot:
 ```bash
+> !help (showing list command)
 > !katakan <text> (the bot will follow what you say)
 > !anime (random anime picture)
 > !apaitu <question> (answer your question directly from wikipedia)
