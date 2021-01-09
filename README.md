@@ -21,9 +21,16 @@
 > !quotes (random quotes)
 > !nulis <text> (the text you send will turn into beautiful writting in the book)
 > !lirik <name song> (to find the lyrics to search for)
+> !apakah <pertanyaan> (kerang ajaib)
+> !bolehkah <pertanyaan> (kerang ajaib)
+> !kapan <pertanyaan> (kerang ajaib)
 ```
-fixed all bug 08/01/2021 by swagcodes
-if u found a new bug please contact instagram [`@swagcode_`](https://www.instagram.com/swagcode_/)
+### Update:
+```bash
+> new fitur: kerang ajaib
+> new reply message updated
+```
+if u found a bug please contact instagram [`@swagcode_`](https://www.instagram.com/swagcode_/)
 
 !!! selling and buying of this script is prohibited !!!
 
