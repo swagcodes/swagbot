@@ -1,5 +1,23 @@
 ﻿#whatsapp-bot js. script created by swagcode published at [`github.com/swagcodes/swagbot`](github.com/swagcodes/swagbot)
- 
+
+### How to use in windows:
+```bash
+> download the zip file then extract it
+> download and install node js for windows
+> open your cmd and cd <the swagbot folder location>
+> type npm install whatsapp-web.js
+> type npm install qrcode-terminal
+> type npm install cheerio
+> type npm install axios
+> type npm install
+> type npm install moment
+> type npm install @adiwajshing/baileys
+> type node index.js
+> scan the qr code
+> done
+note: if cmd appears the words "cannot find any module" just type npm install <the module not found>
+```
+
 ### How to use in termux:
  
 ```bash
