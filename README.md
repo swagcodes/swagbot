@@ -2,9 +2,9 @@
 
 ### How to use in windows:
 ```bash
-> download the zip file then extract it
+> download the zip file then extract in desktop
 > download and install node js for windows
-> open your cmd and cd <the swagbot folder location>
+> open your cmd and type cd desktop/swagbot
 > type npm install whatsapp-web.js
 > type npm install qrcode-terminal
 > type npm install cheerio
