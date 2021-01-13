@@ -53,4 +53,6 @@ if u found a bug please contact instagram [`@swagcode_`](https://www.instagram.c
 
 !!! selling and buying of this script is prohibited !!!
 
+script ini hasil recode!
+
 @All Right Reserved - swagcodes
