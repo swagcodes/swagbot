@@ -24,6 +24,7 @@ note: if cmd appears the words "cannot find any module" just type npm install <t
 > git clone https://github.com/swagcodes/swagbot
 > cd swagbot
 > bash install.sh
+> npm install nodejs
 > node index.js
 > scan the qr-code in whatsapp web scan with another device
 > done
